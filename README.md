@@ -22,7 +22,7 @@ Rủi ro của hệ thống: Bộ dataset có thể không đủ lớn để nh�
 Hệ thống có thể nhận dạng được loại bệnh của cây lúa với độ chính xác trên 90%.
 Tương lai có thể sử dụng camera để nhận dạng loại bệnh của cây lúa theo thời gian thực.
 
-# KỲ VỌNG VÀ HƯỚNG PHÁT TRIỂN
+# NỘI DUNG
 Tóm tắt
 Mô tả bài toán
 Loại bài toán ML
