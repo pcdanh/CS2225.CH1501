@@ -23,8 +23,8 @@ Hệ thống có thể nhận dạng được loại bệnh của cây lúa vớ
 Tương lai có thể sử dụng camera để nhận dạng loại bệnh của cây lúa theo thời gian thực.
 
 # NỘI DUNG
-Tóm tắt
-Mô tả bài toán
+Tóm tắt.
+Mô tả bài toán.
 Loại bài toán ML
 Quy trình
 Dữ liệu
