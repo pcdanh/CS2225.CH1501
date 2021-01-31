@@ -22,12 +22,12 @@ Hệ thống có thể nhận dạng được loại bệnh của cây lúa vớ
 Tương lai có thể sử dụng camera để nhận dạng loại bệnh của cây lúa theo thời gian thực.<br />
 
 # NỘI DUNG
-Tóm tắt.<br />
-Mô tả bài toán.<br />
-Loại bài toán ML.<br />
-Quy trình.<br />
-Dữ liệu.<br />
-Công cụ.<br />
-Đánh giá.<br />
-Kết quả.<br />
-Định hướng phát triển.<br />
+1. Tóm tắt.<br />
+2. Mô tả bài toán.<br />
+3. Loại bài toán ML.<br />
+4. Quy trình.<br />
+5. Dữ liệu.<br />
+6. Công cụ.<br />
+7. Đánh giá.<br />
+8. Kết quả.<br />
+9. Định hướng phát triển.<br />
