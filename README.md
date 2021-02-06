@@ -1,6 +1,7 @@
 # PHÁT HIỆN CÂY LÚA BỆNH DỰA VÀO HÌNH ẢNH
 # Phạm Công Danh - CH1802003
 # Lê Hưng - CH2001006
+# https://github.com/hungiscoding/CS2225.CH1501
 
 # GIỚI THIỆU 
 Việt Nam là một trong những nước có sản lượng xuất khẩu gạo hàng đầu thế giới. Tuy nhiên, hằng năm cây lúa khắp nơi đều gặp những bệnh khác nhau khiến năng xuất không đạt được hết mức. Nhóm chúng tôi muốn xây dựng một hệ thống có thể giúp người nông dân nhanh chóng bắt được đúng bệnh của cây lúa và thực hiện các biện pháp trị bệnh kịp thời. 
