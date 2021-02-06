@@ -26,8 +26,8 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 # NỘI DUNG
 [1. Tóm tắt.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#tomtat)<br />
 [2. Mô tả bài toán.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#motabaitoan)<br />
-3. Loại bài toán ML.<br />
-4. Quy trình.<br />
+[3. Loại bài toán ML.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#loaibaitoan)<br />
+[4. Quy trình.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#quytrinh)<br />
 5. Dữ liệu.<br />
 6. Công cụ.<br />
 7. Đánh giá.<br />
@@ -50,4 +50,13 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 ![Hung](https://github.com/pcdanh/image/blob/master/hung.jpg) <br>
 
 <h3 id="motabaitoan">2. Mô tả bài toán</h3>
+Task: Phát hiện cây lúa bệnh dựa vào hình ảnh<br>
+Input:  Hình ảnh cây lúa bệnh<br>
+Output: Loại bệnh của cây lúa<br>
+Minh hoạ <br>
+![Minh hoa](https://github.com/pcdanh/image/blob/master/1.png) <br>
 
+<h3 id="loaibaitoan">3. Loại bài toán ML</h3>
+● Classification<br>
+<h3 id="quytrinh">4. Quy trình</h3>
+![Minh hoa](https://github.com/pcdanh/image/blob/master/2.png) <br>
