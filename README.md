@@ -38,5 +38,13 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 ●Tên đề tài: Phát hiện cây lúa bệnh dựa vào hình ảnh<br />
 ●Tóm tắt về đồ án và kết quả đạt được<br />
 - Lý do chọn đề tài: Việt Nam là một trong những nước có sản lượng xuất khẩu gạo hàng đầu thế giới. Nhóm chúng em muốn xây dựng một hệ thống phát hiện bệnh trên cây lúa, để có thể giúp nông dân có các biện pháp trị bệnh kịp và tăng năng xuất đạt được hết mức<br />
-- Kết quả đạt được: Các thử nghiệm được thực hiện bằng cách phân chia bộ dữ liệu thành các tỷ lệ khác nhau giữa tập huấn luyện-thử nghiệm. Mô hình đề xuất sử dụng mô hình khá phổ biến là Inception v3, có khả năng phân loại bệnh hại lúa với độ chính xác là 90% đối với tập huấn luyện<br />
+- Kết quả đạt được: Các thử nghiệm được thực hiện bằng cách phân chia bộ dữ liệu thành các tỷ lệ khác nhau giữa tập huấn luyện-thử nghiệm. Mô hình đề xuất sử dụng mô hình khá phổ biến là Inception v3, có khả năng phân loại bệnh hại lúa với độ chính xác là 90% đối với tập huấn luyện<br /><br />
+● Ảnh thành viên trong nhóm<br />
+-Họ và tên: Phạm Công Danh<br />
+-MSHV: CH1802003<br />
+![Danh](https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/danh.jpg) <br />
+
+-Họ và tên: Lê Hưng  <br />
+-MSHV: CH2001006<br />
+![Danh](https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/hung.jpg) <br />
 
