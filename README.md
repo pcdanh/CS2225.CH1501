@@ -1,4 +1,4 @@
-# Nhóm 015
+# PHÁT HIỆN CÂY LÚA BỆNH DỰA VÀO HÌNH ẢNH
 # Phạm Công Danh - CH1802003
 # Lê Hưng - CH2001006
 
@@ -18,8 +18,9 @@ Dữ liệu để train và test hệ thống: tự thu thập.<br />
 Rủi ro của hệ thống: Bộ dataset có thể không đủ lớn để nhận dạng các loại bệnh của cây lúa.<br /> 
 
 # KỲ VỌNG VÀ HƯỚNG PHÁT TRIỂN
-Hệ thống có thể nhận dạng được loại bệnh của cây lúa với độ chính xác trên 90%.<br />
-Tương lai có thể sử dụng camera để nhận dạng loại bệnh của cây lúa theo thời gian thực.<br />
+Tìm hiểu bài toán phân loại đa nhãn (multi-label classification) để nhận dạng cây lúa bị nhiều bệnh từ ảnh đầu vào<br /> 
+Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe mạnh, để có thể nhận dạng được cây lúa khỏe mạnh<br /> 
+
 
 # NỘI DUNG
 1. Tóm tắt.<br />
