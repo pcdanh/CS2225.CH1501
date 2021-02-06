@@ -35,3 +35,8 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 9. Định hướng phát triển.<br />
 
 <h3 id="tomtat">1. Tóm tắt</h3>
+●Tên đề tài: Phát hiện cây lúa bệnh dựa vào hình ảnh<br />
+●Tóm tắt về đồ án và kết quả đạt được<br />
+- Lý do chọn đề tài: Việt Nam là một trong những nước có sản lượng xuất khẩu gạo hàng đầu thế giới. Nhóm chúng em muốn xây dựng một hệ thống phát hiện bệnh trên cây lúa, để có thể giúp nông dân có các biện pháp trị bệnh kịp và tăng năng xuất đạt được hết mức<br />
+- Kết quả đạt được: Các thử nghiệm được thực hiện bằng cách phân chia bộ dữ liệu thành các tỷ lệ khác nhau giữa tập huấn luyện-thử nghiệm. Mô hình đề xuất sử dụng mô hình khá phổ biến là Inception v3, có khả năng phân loại bệnh hại lúa với độ chính xác là 90% đối với tập huấn luyện<br />
+
