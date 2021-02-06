@@ -43,8 +43,9 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 -Họ và tên: Phạm Công Danh<br />
 -MSHV: CH1802003
 
-![Danh](https://github.com/pcdanh/image/blob/master/danh.jpg) 
+![Danh](https://github.com/pcdanh/image/blob/master/danh.jpg) <br>
 -Họ và tên: Lê Hưng  <br />
 -MSHV: CH2001006<br />
 
+![Hung](https://github.com/pcdanh/image/blob/master/hung.jpg) <br>
 
