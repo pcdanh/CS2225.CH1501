@@ -65,22 +65,38 @@ Minh hoạ
 ![Minh hoa](https://github.com/pcdanh/image/blob/master/2.png) <br>
 
 <h3 id="dulieu">5. Dữ liệu</h3>
-Dataset: Có 241 tấm ảnh<br>
-Dữ liệu Train: 153 tấm ảnh<br>
-Dữ liệu Validation: 74 tấm ảnh<br>
-Dữ liệu Test: 17 tấm ảnh  <br>
-Cách thu thập: Tự thu thập<br>
-Tham số: 22,853,411<br>
-Cách train: Train với số Epoch là 20<br>
-Cách test: dùng 6 tấm ảnh trong tập dữ liệu test để test<br>
+●Dataset: Có 241 tấm ảnh<br>
+●Dữ liệu Train: 153 tấm ảnh<br>
+●Dữ liệu Validation: 74 tấm ảnh<br>
+●Dữ liệu Test: 17 tấm ảnh <br>
+●Cách thu thập: Tự thu thập<br>
+●Tham số: 22,853,411<br>
+●Cách train: Train với số Epoch là 20<br>
+●Cách test: dùng 6 tấm ảnh trong tập dữ liệu test để test<br>
+
 
 <h3 id="congcu">6. Công cụ.</h3>
-
+Data augmentation<br>
+Inception v3<br>
 
 <h3 id="danhgia">7. Đánh giá.</h3>
 
+![Danh gia](https://github.com/pcdanh/image/blob/master/3.png) <br>
+
+●Loss của bộ Train càng ngày càng giảm<br>
+●Validation Accuracy càng ngày càng tăng lên<br>
+●Độ chính xác trên 90%<br>
 
 <h3 id="ketqua">8. Kết quả.</h3>
-
+●Điểm mạnh<br>
+-Có thể nhận dạng ảnh mà background có độ nhiễu cao.<br>
+-Mô hình đề xuất có khả năng phân loại bệnh hại lúa với độ chính xác là 90% đối với tập huấn luyện<br>
+●Điểm yếu<br>
+-Chưa nhận dạng được cây lúa bị nhiều bệnh cùng lúc(bệnh bạc lá, bệnh đốm nâu) từ ảnh đầu vào.<br>
+-Nhận dạng sai cây lúa khỏe mạnh <br>
 
 <h3 id="dinhhuongphattrien">9. Định hướng phát triển.</h3>
+●Tìm hiểu bài toán phân loại đa nhãn (multi-label classification) để nhận dạng cây lúa bị nhiều bệnh từ ảnh đầu vào<br>
+●Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe mạnh, để có thể nhận dạng được cây lúa khỏe mạnh<br>
+
+
