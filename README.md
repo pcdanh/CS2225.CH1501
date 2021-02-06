@@ -1,4 +1,4 @@
-# PHÁT HIỆN CÂY LÚA BỆNH DỰA VÀO HÌNH ẢNH
+# Nhóm 15: PHÁT HIỆN CÂY LÚA BỆNH DỰA VÀO HÌNH ẢNH
 # Phạm Công Danh - CH1802003
 # Lê Hưng - CH2001006
 # https://github.com/hungiscoding/CS2225.CH1501
