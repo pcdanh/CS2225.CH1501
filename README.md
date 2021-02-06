@@ -42,9 +42,9 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 ● Ảnh thành viên trong nhóm<br />
 -Họ và tên: Phạm Công Danh<br />
 -MSHV: CH1802003<br />
-![Danh](https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/danh.jpg) <br />
+![Danh] (https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/danh.jpg) <br />
 
 -Họ và tên: Lê Hưng  <br />
 -MSHV: CH2001006<br />
-![Hung](https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/hung.jpg) <br />
+![Hung] (https://github.com/pcdanh/CS2225.CH1501/blob/master/Lab/hung.jpg) <br />
 
