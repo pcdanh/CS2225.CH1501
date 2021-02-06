@@ -53,10 +53,12 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 Task: Phát hiện cây lúa bệnh dựa vào hình ảnh<br>
 Input:  Hình ảnh cây lúa bệnh<br>
 Output: Loại bệnh của cây lúa<br>
-Minh hoạ <br>
+Minh hoạ
+
 ![Minh hoa](https://github.com/pcdanh/image/blob/master/1.png) <br>
 
 <h3 id="loaibaitoan">3. Loại bài toán ML</h3>
 ● Classification<br>
 <h3 id="quytrinh">4. Quy trình</h3>
+
 ![Minh hoa](https://github.com/pcdanh/image/blob/master/2.png) <br>
