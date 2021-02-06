@@ -41,9 +41,9 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 - Kết quả đạt được: Các thử nghiệm được thực hiện bằng cách phân chia bộ dữ liệu thành các tỷ lệ khác nhau giữa tập huấn luyện-thử nghiệm. Mô hình đề xuất sử dụng mô hình khá phổ biến là Inception v3, có khả năng phân loại bệnh hại lúa với độ chính xác là 90% đối với tập huấn luyện<br /><br />
 ● Ảnh thành viên trong nhóm<br />
 -Họ và tên: Phạm Công Danh<br />
--MSHV: CH1802003<br />
-![Danh](https://github.com/pcdanh/image/blob/master/hung.jpg) <br />
+-MSHV: CH1802003
 
+![Danh](https://github.com/pcdanh/image/blob/master/danh.jpg) 
 -Họ và tên: Lê Hưng  <br />
 -MSHV: CH2001006<br />
 
