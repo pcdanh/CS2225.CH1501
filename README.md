@@ -28,11 +28,12 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 [2. Mô tả bài toán.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#motabaitoan)<br />
 [3. Loại bài toán ML.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#loaibaitoan)<br />
 [4. Quy trình.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#quytrinh)<br />
-5. Dữ liệu.<br />
-6. Công cụ.<br />
-7. Đánh giá.<br />
-8. Kết quả.<br />
-9. Định hướng phát triển.<br />
+[5. Dữ liệu.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#dulieu)<br />
+[6. Công cụ.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#congcu)<br />
+[7. Đánh giá.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#danhgia)<br />
+[8. Kết quả.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#ketqua)<br />
+[9. Định hướng phát triển.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#dinhhuongphattrien)<br />
+
 
 <h3 id="tomtat">1. Tóm tắt</h3>
 ●Tên đề tài: Phát hiện cây lúa bệnh dựa vào hình ảnh<br />
@@ -62,3 +63,24 @@ Minh hoạ
 <h3 id="quytrinh">4. Quy trình</h3>
 
 ![Minh hoa](https://github.com/pcdanh/image/blob/master/2.png) <br>
+
+<h3 id="dulieu">5. Dữ liệu</h3>
+Dataset: Có 241 tấm ảnh<br>
+Dữ liệu Train: 153 tấm ảnh<br>
+Dữ liệu Validation: 74 tấm ảnh<br>
+Dữ liệu Test: 17 tấm ảnh  <br>
+Cách thu thập: Tự thu thập<br>
+Tham số: 22,853,411<br>
+Cách train: Train với số Epoch là 20<br>
+Cách test: dùng 6 tấm ảnh trong tập dữ liệu test để test<br>
+
+<h3 id="congcu">6. Công cụ.</h3>
+
+
+<h3 id="danhgia">7. Đánh giá.</h3>
+
+
+<h3 id="ketqua">8. Kết quả.</h3>
+
+
+<h3 id="dinhhuongphattrien">9. Định hướng phát triển.</h3>
