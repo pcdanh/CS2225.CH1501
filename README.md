@@ -24,8 +24,8 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 
 
 # NỘI DUNG
-1. [Tóm tắt.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#tomtat)<br />
-2. Mô tả bài toán.<br />
+[1. Tóm tắt.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#tomtat)<br />
+[2. Mô tả bài toán.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#motabaitoan)<br />
 3. Loại bài toán ML.<br />
 4. Quy trình.<br />
 5. Dữ liệu.<br />
@@ -48,4 +48,6 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 -MSHV: CH2001006<br />
 
 ![Hung](https://github.com/pcdanh/image/blob/master/hung.jpg) <br>
+
+<h3 id="motabaitoan">2. Mô tả bài toán</h3>
 
