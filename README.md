@@ -24,7 +24,7 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 
 
 # NỘI DUNG
-1. Tóm tắt.<br />
+1. [Tóm tắt.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#tomtat)<br />
 2. Mô tả bài toán.<br />
 3. Loại bài toán ML.<br />
 4. Quy trình.<br />
@@ -33,3 +33,5 @@ Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe m�
 7. Đánh giá.<br />
 8. Kết quả.<br />
 9. Định hướng phát triển.<br />
+
+<h3 id="tomtat">1. Tóm tắt</h3>
