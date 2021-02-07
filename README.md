@@ -22,6 +22,28 @@ Rủi ro của hệ thống: Bộ dataset có thể không đủ lớn để nh�
 Tìm hiểu bài toán phân loại đa nhãn (multi-label classification) để nhận dạng cây lúa bị nhiều bệnh từ ảnh đầu vào<br /> 
 Cải tiến thuật toán và thu thập thêm dữ liệu cây lúa khỏe mạnh, để có thể nhận dạng được cây lúa khỏe mạnh<br /> 
 
+# Các bản cập nhật
+2021-02-07: cập nhật file README.md trên git hub
+
+2021-01-31: Cập nhật colab notebook, upload file CS2225.CH1501.FinalReport.pdf
+
+2021-12-10:Cập nhật colab notebook
+
+2021-12-10:Cập nhật colab notebook
+
+2021-12-10:Cập nhật colab notebook
+
+2021-12-2: Cập nhật colab notebook
+
+2020-11-15: Tìm hiểu các công cụ và phương pháp để làm đồ án
+
+2020-11-2: Tiếp tục cập nhật dataset
+
+2020-10-19: Cập nhật dataset
+
+2020-10-5: Thu thập hình ảnh 
+
+2020-9-27: Mô tả đồ án cuối kỳ
 
 # NỘI DUNG
 [1. Tóm tắt.](https://github.com/pcdanh/CS2225.CH1501/blob/master/README.md#tomtat)<br />
